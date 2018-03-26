@@ -1,4 +1,4 @@
-# Cordova Geofence Plugin
+# Cordova Geofence Plugin - Updated for xcode 9 + swift 3 + some missing imports
 
 [![version](https://badge.fury.io/js/cordova-plugin-geofence.png)](https://badge.fury.io/js/cordova-plugin-geofence)
 
